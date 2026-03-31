@@ -62,6 +62,3 @@ Time of Day
 
 Thank you for taking the time to explore this project!
 
- Acknowledgment
-
-Thank you for taking the time to explore this project!
